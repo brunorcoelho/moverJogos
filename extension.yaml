@@ -1,0 +1,7 @@
+Id: GameMover_BrunoPlugin
+Name: Game Mover
+Author: Bruno
+Version: 1.0
+Module: GameMover.dll
+Type: GenericPlugin
+Icon: icon.png
